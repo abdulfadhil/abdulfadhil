@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdulfadhil
+- 👋 Hi, I’m abdul fadhil
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on projects
